@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Cloth Try-On",
+  "description": "An application that allows users to upload a photo of themselves and a photo of a piece of clothing to generate an image of them wearing it, powered by Gemini.",
+  "requestFramePermissions": []
+}
